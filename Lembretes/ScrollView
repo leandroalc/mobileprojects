@@ -1,0 +1,15 @@
+ScrollView
+
+Permite utilizar toda a tela como um componente:
+
+1. - Necessario colocar toda a configuração xmlns dentro do primeiro componente, que, no caso da utilização de um ScrollView, seria o mesmo;
+	
+  1.2 - Essa configuração só será feita no componente (tela) raiz do app.
+
+2. - É requerido a altura e largura do ScrollView, de preferencia em "match_parent", assim ocupando toda a tela;
+	
+3. - Não esquecer de configurar o FillViewport que corresponde a área visível da tela;
+
+  3.1 - Colocando true ela irá permitir visualizar em toda a tela;
+
+  3.2 - ScrollView com o FillViewport configurado, o app possuiria a barra de rolagem para melhor utilização da tela do aparelho móvel;
