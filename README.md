@@ -7,9 +7,19 @@ Aqui será colocado projetos de faculdade, projetos pessoais (open source), idé
 
 Todos os meus projetos colocados aqui são para instrumento de estudo e pesquisa.
 
-Quem utilizar esse repositório, por favor, cuidado com os uploads e updates nos projetos.
-
 Obrigado pela atenção!
 
-Att,
+________________________________________________________________________________________________________________________
+
+Hi, welcome!
+
+This repository was created in order to improve learning and programming techniques for Android.
+
+Here will be placed college projects, personal projects (open source), ideas, etc.
+
+All of my projects posted here are for study and research.
+
+Thanks for listening!
+
+Att, 
 Leandro Alcoforado.
